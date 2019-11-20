@@ -4,7 +4,6 @@ Host *
  ControlPath ~/.ssh/master-%r@%h:%p
 
 Host caen
- HostName login.engin.umich.edu
+ HostName oncampus-course.engin.umich.edu
  User rshafer
- Compression yes
 
